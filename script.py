@@ -26,6 +26,5 @@ time.sleep(2)
 for like in likes:
     like.click()
     time.sleep(2)
-    print ("clicked")
 
 driver.quit()
