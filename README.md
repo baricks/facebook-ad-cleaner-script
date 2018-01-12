@@ -1,5 +1,7 @@
 # facebook-ad-cleaner-script #
 
+*FYI: Script is not functioning yet, still a WIP*
+
 Periodically clears out your ad preferences & categories on Facebook by programmatically going through [this webpage](https://www.facebook.com/ads/preferences/) and removing your interests & ads you've interacted with.
 
 TODO:
